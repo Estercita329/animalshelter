@@ -4,6 +4,16 @@ h1 {
 
 h2 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  color: blue;
 }
-
-
+.profile {
+  margin: 10px;
+  border: 6px lightgray;
+  padding: 5px;
+  background-color: lightskyblue;
+  border-image: 5px solid black;
+}
+ p {
+   text-align: center;
+ }
